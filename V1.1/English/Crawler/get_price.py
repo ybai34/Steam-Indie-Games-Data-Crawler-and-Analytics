@@ -133,7 +133,6 @@ for id_index in tqdm(range(data_base.shape[0])):
             cookies4 = get_chorme_cookies(myid)
             continue
 
-        # 逐条保存数据
         with open('data_price.txt', 'a', encoding='gb18030') as f:
             one_data = [str(myid), diqu_i, price]
             one_data = '$$%%'.join(one_data)
