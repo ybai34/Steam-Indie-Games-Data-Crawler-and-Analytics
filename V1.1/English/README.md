@@ -22,8 +22,8 @@ This project aims to crawl and analyze data of indie games on Steam. We primaril
 
 ### Data Analysis
 
-- `Analysis.ipynb`: Jupyter Notebook for data analysis, containing data processing and analysis steps.
-- `ConvertNumber.ipynb`: Jupyter Notebook for converting numerical data formats.
+- `Analysis.ipynb`: Jupyter Notebook for data analysis, which contains data processing and analysis processes.
+- `ConvertNumber.ipynb`: Jupyter Notebook for data preprocessing and numeric format conversion to help deal with numeric formats in data.
 - `DataSample.xlsx`: Sample of raw data.
 - `DataSample_converted.xlsx`: Sample of converted data.
 - `cleaned_data.xlsx`: Cleaned data file.
