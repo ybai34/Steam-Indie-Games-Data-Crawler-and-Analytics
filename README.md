@@ -1,2 +1,2 @@
-# Steam-Data-Crawler-and-Analytics
-Steam Data Crawler and Analytics projrct. Description to be completed.
+# Steam-Indie-Games-Data-Crawler-and-Analytics
+Steam-Indie-Games-Data-Crawler-and-Analytics project. Description to be completed.
